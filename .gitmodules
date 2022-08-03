@@ -1,0 +1,6 @@
+[submodule "lib/choir"]
+	path = lib/choir
+	url = https://github.com/Tythos/choir.git
+[submodule "lib/three"]
+	path = lib/three
+	url = https://github.com/Tythos/three.git
