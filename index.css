@@ -6,3 +6,12 @@ body {
     font-family: monospace;
     font-size: 16pt;
 }
+
+canvas {
+    position: absolute;
+    z-index: 0;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+}
